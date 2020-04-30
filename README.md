@@ -6,3 +6,8 @@ How to use this decision journal:
 - Fill out the issue as completely as possible
 - After a time period that makes sense (1 month? 6 months?) revisit the issue, filling out the section on "what happened" and "what I learned". Try to seperate the result of the decision from your process of thinking through it (paying attention to what was in your control and known, and seperating that from what was unknown or out of your control)
 - Close the issue, but periodically revisit to learn from yourself.
+
+---
+- *[Follow me](https://twitter.com/the_zmackie)*
+- *[More mental tools for software devs](https://gumroad.com/zmackie)*
+- *[Template inspriration](https://fs.blog/2014/02/decision-journal/#decision_journal_template)*
